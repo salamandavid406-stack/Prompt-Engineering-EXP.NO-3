@@ -1,47 +1,100 @@
-EX.NO:3 Exploring the different types of prompts- Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
+EX.NO:3 – Exploring Different Types of Prompts
+AIM
 
-Aim: To write the prompts for the following prompt types for 2 different scenarios of Each type.
+To study different types of prompting techniques such as Straightforward Prompting, Tabular Format Prompting, Preceding Question Prompting, and Missing Word Prompting using different scenarios.
 
-1.Straightforward Prompts
+1. Straightforward Prompts
+Scenario 1 – Education
+Prompt:
 
-2.Tabular Format Prompting
+“Define Artificial Intelligence in one sentence.”
 
-3.Preceding Question Prompting
+Output:
 
-4.Missing Word Prompting
+Artificial Intelligence enables machines to perform tasks that require human intelligence.
 
-Explanation - Any one use case from Unit 5 or any 2 own use cases with the unit 2 Prompt type
+Scenario 2 – Environment
+Prompt:
 
-Procedure:
+“List three advantages of renewable energy.”
 
-Write 2 different prompts for different use cases, refer the following Examples
+Output:
+Reduces pollution
+Saves resources
+Environment friendly
+2. Tabular Format Prompting
+Scenario 1 – Programming Languages
+Prompt:
 
-Example:
+“Compare Python and Java in a table.”
 
-Straightforward Prompts:
+Feature	Python	Java
+Type	Interpreted	Compiled
+Syntax	Easy	Complex
+Usage	AI & Data Science	Enterprise Applications
+Scenario 2 – Networking
+Prompt:
 
-• "Define photosynthesis in one sentence."
+“Compare Wi-Fi and Bluetooth in a table.”
 
-"List three advantages of electric vehicles."
+Feature	Wi-Fi	Bluetooth
+Range	Long	Short
+Speed	High	Moderate
+Usage	Internet Access	Device Connection
+3. Preceding Question Prompting
+Scenario 1 – Climate Change
+Prompt:
 
-Tabular Format Prompting:
+“Why is climate change a global issue? Explain briefly.”
 
-• "Compare and contrast AC and DC current in a table."
+Output:
 
-• "Provide a table listing five programming languages, their paradigms, and one use case each."
+Climate change affects weather, agriculture, and human life worldwide due to global warming and pollution.
 
-Preceding Question Prompting:
+Scenario 2 – Cyber Security
+Prompt:
 
-• "Why is climate change a global concern? Explain how greenhouse gases contribute to global warming."
+“Why is cyber security important? Explain common threats.”
 
-• "How do vaccines work? Describe the process of immunization in simple terms."
+Output:
 
-Missing Word Prompting:
+Cyber security protects systems from threats like hacking, malware, and phishing attacks.
 
-• "The capital of France is ____."
+4. Missing Word Prompting
+Scenario 1 – Science
+Prompt:
 
-• "In photosynthesis, plants absorb sunlight to produce ____."
+“The process by which plants make food is called ____.”
 
-OUTPUT:
+Output:
 
-RESULT: 
+Photosynthesis
+
+Scenario 2 – Geography
+Prompt:
+
+“The capital of Japan is ____.”
+
+Output:
+
+Tokyo
+
+# SUMMARY TABLE
+
+| AI Platform | Accuracy | Coherence | Simplicity | Speed | User Experience |
+|------------|-----------|------------|-------------|--------|----------------|
+| ChatGPT | 5/5 | 5/5 | 5/5 | 5/5 | Excellent |
+| Gemini | 4/5 | 4/5 | 5/5 | 5/5 | Very Good |
+| Claude | 5/5 | 4/5 | 4/5 | 4/5 | Good |
+
+# COMPARISON ANALYSIS
+
+| Platform | Observation |
+|----------|-------------|
+| ChatGPT | Generated accurate, clear, and detailed responses |
+| Gemini | Produced simple and fast responses |
+| Claude | Generated informative and technical explanations |
+
+# RESULT
+
+Thus, different types of prompting techniques were successfully explored and compared using various AI platforms. ChatGPT showed the best overall performance in terms of accuracy, coherence, and user experience.
